@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao nosso perfil 🍒
 
-<!--
-**Helenws4/helenws4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nossos nomes são Helen e Smayra
 
-Here are some ideas to get you started:
+- Estamos estudando na [Alura](https://www.alura.com.br)
+- Estamos nos desenvolvendo na linguagem JavaScript
+- Utilizamos esse espaço para nossa organização e compartilhamnto dos nossos projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato conosco 📫
+
+00001117101563sp@al.educacao.sp.gov.br; 00001123305195sp@al.educacao.sp.gov.br 
+
+@Helenws4; @smayra_Damarys
+
+![](https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif)
